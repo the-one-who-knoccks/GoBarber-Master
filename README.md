@@ -1,8 +1,3 @@
-<h1 align="center">
-<br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
-<br>
-<br>
 GOBARBER
 </h1>
 
@@ -24,11 +19,12 @@ GOBARBER
 
 ## Features
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+Pricipais tenologias usadas nesse desenvolvimento:
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+- 💹 **Node Js** — Back-end
+- ⚛️ **React Js** — Front-end
+- ⚛️ **React Native** — Mobile - Android e iOS
+
 
 ## Getting started
 
