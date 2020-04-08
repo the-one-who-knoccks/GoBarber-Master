@@ -24,8 +24,8 @@ Principais tecnologias usadas nesta aplicação:
 - 💹 **Node Js** — Back-end
 - ⚛️ **React Js** — Front-end
 - ⚛️ **React Native** — Mobile - Android e iOS
-- ⚛️ **Postgres/Sequelize** — Banco de dados
-- ⚛️ **Docker** — Gerenciamento dos bancos de dados
+- Postgres/Sequelize — Banco de dados
+- Docker— Gerenciamento dos bancos de dados
 
 - ⚛️ **Outras tecnologias**
 Redux
