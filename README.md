@@ -27,7 +27,7 @@ Principais tecnologias usadas nesta aplicação:
 - Postgres/Sequelize — Banco de dados
 - Docker— Gerenciamento dos bancos de dados
 
-- ⚛️ **Outras tecnologias**
+- Outras tecnologias:
 Redux
 Redux-Saga
 React Navigation
