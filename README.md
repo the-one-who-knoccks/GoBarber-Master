@@ -44,7 +44,7 @@ Prettier
 
 git clone https://github.com/the-one-who-knoccks/GoBarber-Master
 
-- Back-end
+## Back-end
 Acesse a pasta Backend_Gobarber e siga os passos abaixos:
 
 Para instalar as dependências rode o comando:
@@ -69,14 +69,14 @@ Siga o arquivo .env.example para setar as configurações
 Para startar o servidor, rode o comando:
 * yarn dev
 
-* Front-end
+## Front-end
 Acesse a pasta Front-end-Gobarber e rode o comando abaixo para instalar as dependências:
 * yarn
 
 Para iniciar a aplicação, rode:
 * yarn start
 
-- Mobile APP
+## Mobile app
 Acesse a pasta Mobile_Gobarber e navegue até a pasta src/services e no arquivo api.js, defina o url/localhost do seu emulador. Depois vá até src/config/ReactotoronConfig e altere a parte ".configure({ host: 'ip da sua maquina aqui })" Após isso, rode o comando abaixo para instalar as dependências:
 * yarn
 
