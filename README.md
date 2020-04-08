@@ -1,21 +1,12 @@
 <h1 align="center">
 <br>
+  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
 <br>
 <br>
-GoBarber
+GOBARBER
 </h1>
 
 <p align="center">GoBarber é um sistema de cadastro para prestadores de serviços de barbearia. A aplicação web conta com a parte decadastro de prestadores de serviços. E sua aplicação mobile conta com o cadastro de usuários para escolherem o prestador e agendar um horário para ser atendido. Projeto desnvolvido durante o Bootcamp GoStack 10 da Rocketseat.</p>
-
-# Imagem da aplicação
-
-<img src="Prev/Gobarber01.png">
-</br>
-
-<img src="Prev/Gobarber02.png">
-</br>
-
-
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -23,14 +14,21 @@ GoBarber
   </a>
 </p>
 
+[//]: # (Add your gifs/images here:)
+<div>
+  <img src="Prev/Gobarber01.png" alt="prev1" height="425">
+  <img src="Prev/Gobarber02.png" alt="prev2" height="425">
+</div>
+
+<hr />
+
 ## Features
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
-- 💹 **Node Js** — A web framework for Node Js
 - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-
+- 💹 **Node Js** — A web framework for Node Js
 
 ## Getting started
 
