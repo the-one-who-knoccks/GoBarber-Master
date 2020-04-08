@@ -7,6 +7,16 @@ GoBarber
 
 <p align="center">GoBarber é um sistema de cadastro para prestadores de serviços de barbearia. A aplicação web conta com a parte decadastro de prestadores de serviços. E sua aplicação mobile conta com o cadastro de usuários para escolherem o prestador e agendar um horário para ser atendido. Projeto desnvolvido durante o Bootcamp GoStack 10 da Rocketseat.</p>
 
+#Imagem da aplicação
+
+<img src="GoBarber-Master/Prev/Gobarber01.png">
+</br>
+
+<img src="GoBarber-Master/Prev/Gobarber02.png">
+</br>
+
+
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
