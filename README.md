@@ -93,8 +93,7 @@ Apos estar com o seu  emulador ou celular conectado, abra o terminal na pasta Mo
 * react-native run-android ou run-ios
 
 Em seguida apóis finalizar a instalação, rode: 
-* react-native start ou yarn start
-Em uma guia do terminal, rode:
+* react-native start ou yarn start no terminal
 
 
 
