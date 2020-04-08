@@ -19,11 +19,13 @@ GOBARBER
 
 ## Features
 [//]: # (Add the features of your project here:)
-Pricipais tenologias usadas nesse desenvolvimento:
+Principais tecnologias usadas nesta aplicação:
 
 - 💹 **Node Js** — Back-end
 - ⚛️ **React Js** — Front-end
 - ⚛️ **React Native** — Mobile - Android e iOS
+- ⚛️ **Postgres/Sequelize** — Banco de dados
+- ⚛️ **Docker** — Gerenciamento dos bancos de dados
 
 
 ## Getting started
