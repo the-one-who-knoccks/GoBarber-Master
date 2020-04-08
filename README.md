@@ -7,12 +7,12 @@ GoBarber
 
 <p align="center">GoBarber é um sistema de cadastro para prestadores de serviços de barbearia. A aplicação web conta com a parte decadastro de prestadores de serviços. E sua aplicação mobile conta com o cadastro de usuários para escolherem o prestador e agendar um horário para ser atendido. Projeto desnvolvido durante o Bootcamp GoStack 10 da Rocketseat.</p>
 
-#Imagem da aplicação
+# Imagem da aplicação
 
 <img src="Prev/Gobarber01.png">
 </br>
 
-<img src="GoBarber-Master/Prev/Gobarber02.png">
+<img src="Prev/Gobarber02.png">
 </br>
 
 
