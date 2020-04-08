@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="GoBarber" width="120">
+  <alt="GoBarber" width="120">
 <br>
 <br>
 </h1>
@@ -24,7 +24,7 @@ This app features all the latest tools and practices in mobile development!
 ## Getting started
 
 Describe here the way to use/install your project
-
+<alt="GoBarber" width="120"
 
 ## License
 
