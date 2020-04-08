@@ -90,7 +90,7 @@ Acesse a pasta Mobile_Gobarber e navegue até a pasta src/services e no arquivo 
 * yarn
 
 Apos estar com o seu  emulador ou celular conectado, abra o terminal na pasta Mobile_Gobarber e rode o comando:
-* react-native run-Android ou run-IOS
+* react-native run-android ou run-ios
 
 Em seguida apóis finalizar a instalação, rode: 
 * react-native start ou yarn start
