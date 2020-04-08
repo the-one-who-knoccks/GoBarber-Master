@@ -27,6 +27,18 @@ Principais tecnologias usadas nesta aplicação:
 - ⚛️ **Postgres/Sequelize** — Banco de dados
 - ⚛️ **Docker** — Gerenciamento dos bancos de dados
 
+- ⚛️ **Outras tecnologias**
+Redux
+Redux-Saga
+React Navigation
+Axios
+Immer
+styled-components
+react-native-vector-icons
+Reactotron
+ESlint
+Prettier
+
 
 ## Getting started
 
@@ -36,3 +48,5 @@ Describe here the way to use/install your project
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+
+
