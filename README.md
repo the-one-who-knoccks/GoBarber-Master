@@ -33,8 +33,8 @@ Redux-Saga
 React Navigation
 Axios
 Immer
-styled-components
-react-native-vector-icons
+Styled-components
+React-native-vector-icons
 Reactotron
 ESlint
 Prettier
