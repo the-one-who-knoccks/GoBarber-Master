@@ -9,7 +9,7 @@ GoBarber
 
 #Imagem da aplicação
 
-<img src="GoBarber-Master/Prev/Gobarber01.png">
+<img src="Prev/Gobarber01.png">
 </br>
 
 <img src="GoBarber-Master/Prev/Gobarber02.png">
