@@ -28,16 +28,16 @@ Principais tecnologias usadas nesta aplicação:
 - Docker— Gerenciamento dos bancos de dados
 
 - Outras tecnologias:
-**Redux,
-**Redux-Saga
-**React Navigation
-**Axios
-**Immer
-*Styled-components
-**React-native-vector-icons
-**Reactotron
-**ESlint
-**rettier
+- Redux,
+- Redux-Saga
+- React Navigation
+- Axios
+- Immer
+- Styled-components
+- React-native-vector-icons
+- Reactotron
+- ESlint
+- rettier
 
 
 ## Instalação e uso
