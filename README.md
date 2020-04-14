@@ -42,7 +42,7 @@ Principais tecnologias usadas nesta aplicação:
 
 ## Instalação e uso
 
-git clone https://github.com/the-one-who-knoccks/GoBarber-Master
+git clone https://github.com/the-one-who-knoccks/GoBarber-Master.git
 
 ## Back-end
 Acesse a pasta Backend_Gobarber e siga os passos abaixos:
