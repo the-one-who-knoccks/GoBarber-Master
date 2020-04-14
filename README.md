@@ -50,7 +50,7 @@ Acesse a pasta Backend_Gobarber e siga os passos abaixos:
 Para instalar as dependências rode o comando:
 * yarn
 
-Instalar, criar e subir um banco de dados Postgres pelo docker
+Criar e subir um banco de dados Postgres pelo docker
 
 * docker run --name gobarber-db -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres:11
 
@@ -59,13 +59,13 @@ Instalar, criar e subir um banco de dados Postgres pelo docker
 No terminal e dentro da pasta backend rode o comando:
 * yarn sequelize db:migrate para criar as tabelas no bando de dados
 
-Instalar, criar e subir um banco de dados Redis pelo docker
+Criar e subir um banco de dados Redis pelo docker
 
 * docker run --name redis-barber -p 6379:6379 -d -t redis:alpine
 
 * docker start redis-barber
 
-Instalar, criar e subir um banco de dados MongoDB pelo docker
+Criar e subir um banco de dados MongoDB pelo docker
 
 *docker run --name mongo-barber -p 27017:27017 -d -t mongo
 
